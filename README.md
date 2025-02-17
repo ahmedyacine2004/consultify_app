@@ -20,6 +20,6 @@ Clone the repository and navigate to the project folder:
 
 ```bash
 git clone https://github.com/your-username/consultify-mobile.git
-cd consultify-mobile
+cd consultify-app
 ibute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.SSS
